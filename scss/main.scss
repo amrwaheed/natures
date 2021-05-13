@@ -1,6 +1,6 @@
-@import 'abstracts/_varibales';
 @import 'abstracts/_functions';
 @import 'abstracts/_mixins';
+@import 'abstracts/_varibales';
 
 
 @import 'base/_animated';
@@ -10,10 +10,13 @@
 
 
 
+@import 'components/bg-vidoe';
+@import 'components/form';
 @import 'components/button';
 @import 'components/card';
 @import 'components/composition';
 @import 'components/feature-box';
+@import 'components/story';
 
 @import 'layout/grid';
 @import 'layout/header';
